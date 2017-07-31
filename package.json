@@ -17,15 +17,7 @@
     "test": "test"
   },
   "homepage": "https://github.com/googlei18n/libphonenumber",
-  "keywords": [
-    "libphonenumber",
-    "phonenumber",
-    "phone",
-    "number",
-    "e164",
-    "standardize",
-    "international"
-  ],
+  "keywords": ["libphonenumber", "phonenumber", "phone", "number", "e164", "standardize", "international"],
   "repository": {
     "type": "git",
     "url": "https://github.com/mattbornski/libphonenumber.git"
@@ -34,11 +26,10 @@
     "node": ">= 0.8"
   },
   "dependencies": {
-    "closure": "1.0.3",
-    "mocha": "^2.4.5"
+    "closure": "1.0.3"
   },
   "devDependencies": {
-    "mocha": "1.x"
+    "mocha": "^2.4.5"
   },
   "scripts": {
     "test": "mocha"
